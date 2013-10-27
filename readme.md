@@ -1,0 +1,1 @@
+This is a location scraper for McDonald's Canada. It uses the job-hunter website that lists all applicable locations. Information subject to change frequently. 
